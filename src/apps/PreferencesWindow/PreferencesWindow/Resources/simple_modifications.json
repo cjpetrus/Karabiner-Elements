@@ -435,5 +435,13 @@
         "name": "right_gui"
     }, {
         "name": "hyper"
+    }, {
+        "name": "hyper_minus_cmd"
+    }, {
+        "name": "hyper_minus_opt"
+    }, {
+        "name": "hyper_minus_shift"
+    }, {
+        "name": "hyper_minus_ctrl"
     }]
 }]
