@@ -433,5 +433,7 @@
         "name": "right_alt"
     }, {
         "name": "right_gui"
+    }, {
+        "name": "hyper"
     }]
 }]
