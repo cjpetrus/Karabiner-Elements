@@ -494,7 +494,21 @@
         "name": "right_alt",
         "label": "right_alt (equal to `right_option`)"
     }, {
+<<<<<<< HEAD
         "name": "right_gui",
         "label": "right_gui (equal to `right_command`)"
+=======
+        "name": "right_gui"
+    }, {
+        "name": "hyper"
+    }, {
+        "name": "hyper_minus_cmd"
+    }, {
+        "name": "hyper_minus_opt"
+    }, {
+        "name": "hyper_minus_shift"
+    }, {
+        "name": "hyper_minus_ctrl"
+>>>>>>> pr/1
     }]
 }]
